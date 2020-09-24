@@ -2,6 +2,10 @@
 
 This repo demonstrates how to use a TensorFlow model on the ESP32 using Platform.io.
 
+There's a walkthrough video here: https://youtu.be/kZdIO82059E
+
+[![Demo Video](https://img.youtube.com/vi/kZdIO82059E/0.jpg)](https://www.youtube.com/watch?v=kZdIO82059E)
+
 ## Setup
 
 To train the model you'll need a python environment. Make sure you have python 3 installed on your system:
