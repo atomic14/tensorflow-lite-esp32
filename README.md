@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z734F5Y)
 # TensorFlow-Lite and Platform.io
 
 This repo demonstrates how to use a TensorFlow model on the ESP32 using Platform.io.
