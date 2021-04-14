@@ -26,7 +26,7 @@ inline float TfLiteMin(const float& x, const float& y) {
 #else
 template <class T>
 inline T TfLiteMin(const T& x, const T& y) {
-  return std::fmin(x, y);
+  return std::min(x, y);
 }
 #endif
 
